@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Concrete Page</string>
+    <string name="hello">Hello World!</string>
+    <string name="empty" />
+    <string-array name="alphabet">
+        <item>"A"</item>
+        <item>"B"</item>
+        <item>"C"</item>
+    </string-array>
+</resources>
